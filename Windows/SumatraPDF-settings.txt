@@ -1,0 +1,427 @@
+﻿# For documentation, see https://www.sumatrapdfreader.org/settings/settings3.2.html
+
+MainWindowBackground = #111111
+EscToExit = false
+ReuseInstance = false
+UseSysColors = false
+RestoreSession = false
+TabWidth = 300
+
+FixedPageUI [
+	TextColor = #cecac3
+	BackgroundColor = #181a1b
+	SelectionColor = #f5fc0c
+	WindowMargin = 2 4 2 4
+	PageSpacing = 4 4
+]
+EbookUI [
+	FontName = Georgia
+	FontSize = 12.5
+	TextColor = #5f4b32
+	BackgroundColor = #fbf0d9
+	UseFixedPageUI = true
+]
+ComicBookUI [
+	WindowMargin = 0 0 0 0
+	PageSpacing = 4 4
+	CbxMangaMode = false
+]
+ChmUI [
+	UseFixedPageUI = true
+]
+ExternalViewers [
+]
+ShowMenubar = false
+ReloadModifiedDocuments = true
+FullPathInTitle = false
+ZoomLevels = 8.33 12.5 18 25 33.33 50 66.67 75 100 125 150 200 300 400 600 800 1000 1200 1600 2000 2400 3200 4800 6400
+ZoomIncrement = 0
+
+PrinterDefaults [
+	PrintScale = shrink
+]
+ForwardSearch [
+	HighlightOffset = 0
+	HighlightWidth = 15
+	HighlightColor = #6581ff
+	HighlightPermanent = false
+]
+CustomScreenDPI = 0
+
+RememberStatePerDocument = true
+UiLanguage = en
+ShowToolbar = true
+ShowFavorites = false
+AssociateSilently = false
+CheckForUpdates = false
+RememberOpenedFiles = true
+EnableTeXEnhancements = false
+DefaultDisplayMode = automatic
+DefaultZoom = fit page
+WindowState = 3
+WindowPos = 693 0 1174 1520
+ShowToc = true
+SidebarDx = 601
+TocDy = 0
+ShowStartPage = true
+UseTabs = true
+
+FileStates [
+	[
+		FilePath = C:\Users\tothe\Downloads\coursera\learning-how-to-learn\02_chunking\01_chunking-the-essentials\04_how-to-form-a-chunk-part-2_Forming_a_Chunk_Part_2_Script.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 175
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 3
+		WindowPos = 693 0 1174 1520
+		ShowToc = false
+		SidebarDx = 601
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\tothe\Downloads\coursera\learning-how-to-learn\02_chunking\01_chunking-the-essentials\03_how-to-form-a-chunk-part-1_Forming_a_Chunk_Part_1_Script.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 179
+		PageNo = 2
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 3
+		WindowPos = 693 0 1174 1520
+		ShowToc = false
+		SidebarDx = 601
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\tothe\Downloads\coursera\learning-how-to-learn\02_chunking\01_chunking-the-essentials\02_what-is-a-chunk_What_is_a_Chunk_Script.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 334
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 3
+		WindowPos = 693 0 1174 1520
+		ShowToc = false
+		SidebarDx = 601
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\tothe\Downloads\coursera\learning-how-to-learn\02_chunking\01_chunking-the-essentials\01_introduction-to-chunking_Introduction_to_Chunking_Script.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 3
+		WindowPos = 693 0 1174 1520
+		ShowToc = false
+		SidebarDx = 601
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\tothe\Downloads\coursera\learning-how-to-learn\01_what-is-learning\02_procrastination-memory-and-sleep\04_the-importance-of-sleep-in-learning_The_Importance_of_Sleep_in_Learning_Script.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = single page
+		ScrollPos = -1 310
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 3
+		WindowPos = 693 0 1174 1520
+		ShowToc = false
+		SidebarDx = 601
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\tothe\Downloads\coursera\learning-how-to-learn\01_what-is-learning\02_procrastination-memory-and-sleep\03_introduction-to-memory_Introduction_to_Memory_Script.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 489
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 3
+		WindowPos = 693 0 1174 1520
+		ShowToc = false
+		SidebarDx = 601
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\tothe\Downloads\coursera\learning-how-to-learn\01_what-is-learning\02_procrastination-memory-and-sleep\02_practice-makes-permanent_Practice_Makes_Permanent_Script.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 3
+		WindowPos = 693 0 1174 1520
+		ShowToc = false
+		SidebarDx = 601
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\tothe\Downloads\coursera\learning-how-to-learn\01_what-is-learning\02_procrastination-memory-and-sleep\01_a-procrastination-preview_A_Procrastination_Preview_Script.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 233
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 3
+		WindowPos = 693 0 1174 1520
+		ShowToc = false
+		SidebarDx = 601
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\tothe\Downloads\coursera\learning-how-to-learn\01_what-is-learning\02_procrastination-memory-and-sleep\01_a-procrastination-preview_A_procrastination_preview.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 362
+		PageNo = 4
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 3
+		WindowPos = 693 0 1174 1520
+		ShowToc = true
+		SidebarDx = 601
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\tothe\Downloads\coursera\learning-how-to-learn\01_what-is-learning\01_focused-versus-diffuse-thinking\01_introduction-to-the-focused-and-diffuse-modes_Introduction_to_the_Focused_and_Diffuse_Modes_Script.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 3
+		WindowPos = 693 0 1174 1520
+		ShowToc = false
+		SidebarDx = 601
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\tothe\Downloads\Code Complete 2nd Edition.pdf
+		Favorites [
+			[
+				Name = 7/8
+				PageNo = 114
+				PageLabel = 77
+			]
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 9
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 114
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 3
+		WindowPos = 693 0 1174 1520
+		ShowToc = false
+		SidebarDx = 601
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 28 44
+	]
+	[
+		FilePath = C:\Users\tothe\Downloads\代码大全中文第二版_扫描版_20.2M.pdf
+		Favorites [
+			[
+				Name = 第 10 章 使用变量的一般事项
+				PageNo = 252
+			]
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 8
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 252
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 3
+		WindowPos = 693 0 1174 1520
+		ShowToc = false
+		SidebarDx = 601
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\tothe\Downloads\coursera\learning-how-to-learn\01_what-is-learning\01_focused-versus-diffuse-thinking\01_introduction-to-the-focused-and-diffuse-modes_Introduction_to_the_Focused_and_Diffuse_Modes.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 388
+		PageNo = 2
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 3
+		WindowPos = 693 0 1174 1520
+		ShowToc = true
+		SidebarDx = 601
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\tothe\Downloads\Design Patterns, Elements of Reusable Object-Oriented Software.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 5
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 287
+		PageNo = 18
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 3
+		WindowPos = 693 0 1174 1520
+		ShowToc = false
+		SidebarDx = 601
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\tothe\Downloads\代码大全（第二版）中文版@www.jqhtml.com.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 627
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 693 0 1174 1520
+		ShowToc = false
+		SidebarDx = 601
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\tothe\Downloads\Design Patterns_ Elements of Reusable Object-Oriented Software - Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 70
+		PageNo = 13
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 693 0 1174 1520
+		ShowToc = false
+		SidebarDx = 601
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 6
+	]
+	[
+		FilePath = C:\Users\tothe\Downloads\代码大全（第2版）.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 693 0 1174 1520
+		ShowToc = true
+		SidebarDx = 601
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+]
+SessionData [
+]
+TimeOfLastUpdateCheck = 0 0
+OpenCountWeek = 497
+
+# Settings after this line have not been recognized by the current version
