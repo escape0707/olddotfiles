@@ -68,6 +68,66 @@ UseTabs = true
 
 FileStates [
 	[
+		FilePath = C:\Users\tothe\Downloads\Telegram Desktop\杜尚访谈录3.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 343
+		PageNo = 20
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 3
+		WindowPos = 693 0 1174 1520
+		ShowToc = false
+		SidebarDx = 601
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\tothe\Downloads\coursera\learning-how-to-learn\02_chunking\02_seeing-the-bigger-picture\01_what-motivates-you_What_Motivates_You_Script.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 31
+		PageNo = 2
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 693 0 1174 1520
+		ShowToc = false
+		SidebarDx = 601
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\tothe\Downloads\coursera\learning-how-to-learn\02_chunking\01_chunking-the-essentials\05_illusions-of-competence_Illusions_of_Competence_Script.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 15
+		PageNo = 2
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 693 0 1174 1520
+		ShowToc = false
+		SidebarDx = 601
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
 		FilePath = C:\Users\tothe\Downloads\coursera\learning-how-to-learn\02_chunking\01_chunking-the-essentials\04_how-to-form-a-chunk-part-2_Forming_a_Chunk_Part_2_Script.pdf
 		Favorites [
 		]
@@ -76,11 +136,11 @@ FileStates [
 		OpenCount = 2
 		UseDefaultState = false
 		DisplayMode = continuous
-		ScrollPos = -1 175
-		PageNo = 1
+		ScrollPos = -1 51
+		PageNo = 2
 		Zoom = fit width
 		Rotation = 0
-		WindowState = 3
+		WindowState = 2
 		WindowPos = 693 0 1174 1520
 		ShowToc = false
 		SidebarDx = 601
