@@ -1,0 +1,1 @@
+wsl -- socat tcp-listen:7890,fork exec:"/mnt/c/Users/tothe/my-programs/socat/socat.exe - tcp\:localhost\:7890" "&"
