@@ -1,4 +1,4 @@
-﻿# For documentation, see https://www.sumatrapdfreader.org/settings/settings3.2.html
+# For documentation, see https://www.sumatrapdfreader.org/settings/settings3.2.html
 
 MainWindowBackground = #111111
 EscToExit = false
@@ -15,10 +15,10 @@ FixedPageUI [
 	PageSpacing = 4 4
 ]
 EbookUI [
-	FontName = Georgia
+	FontName = Microsoft YaHei UI
 	FontSize = 12.5
-	TextColor = #5f4b32
-	BackgroundColor = #fbf0d9
+	TextColor = #cecac3
+	BackgroundColor = #181a1b
 	UseFixedPageUI = true
 ]
 ComicBookUI [
@@ -56,9 +56,9 @@ AssociateSilently = false
 CheckForUpdates = false
 RememberOpenedFiles = true
 EnableTeXEnhancements = false
-DefaultDisplayMode = automatic
-DefaultZoom = fit page
-WindowState = 3
+DefaultDisplayMode = continuous
+DefaultZoom = fit width
+WindowState = 2
 WindowPos = 693 0 1174 1520
 ShowToc = true
 SidebarDx = 601
