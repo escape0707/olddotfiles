@@ -9,6 +9,7 @@ man-db
 mypy
 neovim
 oh-my-zsh-git
+pkgfile
 powerpill
 python-black
 python-pylint
