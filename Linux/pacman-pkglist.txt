@@ -2,6 +2,7 @@ archlinuxcn-keyring
 bandit
 base
 clang
+fakeroot
 flake8
 gdb
 make
@@ -13,6 +14,8 @@ pkgfile
 powerpill
 python-black
 python-pylint
+python-scikit-learn
+python-seaborn
 socat
 valgrind
 yay
