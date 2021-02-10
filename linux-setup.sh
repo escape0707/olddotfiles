@@ -1,4 +1,4 @@
-cd $(dirname $(readlink -f $0))/Linux
+cd $(dirname $(readlink -f $0))/linux
 DotfilesFolder=$PWD
 
 ln -s $DotfilesFolder/.zshrc ~/.zshrc
