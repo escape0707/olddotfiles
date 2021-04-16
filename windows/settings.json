@@ -30,7 +30,7 @@
         {
             // Put settings here that you want to apply to all profiles.
             "colorScheme": "One Half Dark",
-            "fontFace": "Fira Code"
+            "fontFace": "FiraCode NF"
         },
         "list":
         [
