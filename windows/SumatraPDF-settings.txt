@@ -1,4 +1,4 @@
-# For documentation, see https://www.sumatrapdfreader.org/settings/settings3.2.html
+﻿# For documentation, see https://www.sumatrapdfreader.org/settings/settings3.2.html
 
 MainWindowBackground = #111111
 EscToExit = false
@@ -15,10 +15,10 @@ FixedPageUI [
 	PageSpacing = 4 4
 ]
 EbookUI [
-	FontName = Microsoft YaHei UI
+	FontName = Microsoft YaHei
 	FontSize = 12.5
-	TextColor = #cecac3
-	BackgroundColor = #181a1b
+	TextColor = #5f4b32
+	BackgroundColor = #fbf0d9
 	UseFixedPageUI = true
 ]
 ComicBookUI [
@@ -56,8 +56,8 @@ AssociateSilently = false
 CheckForUpdates = false
 RememberOpenedFiles = true
 EnableTeXEnhancements = false
-DefaultDisplayMode = continuous
-DefaultZoom = fit width
+DefaultDisplayMode = automatic
+DefaultZoom = fit page
 WindowState = 2
 WindowPos = 693 0 1174 1520
 ShowToc = true
@@ -68,12 +68,52 @@ UseTabs = true
 
 FileStates [
 	[
-		FilePath = C:\Users\tothe\Downloads\Telegram Desktop\杜尚访谈录3.pdf
+		FilePath = C:\Users\tothe\Downloads\[来自新世界]\來自新世界+-+貴志祐介.epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 3
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 693
+		PageNo = 319
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 693 0 1174 1520
+		ShowToc = false
+		SidebarDx = 601
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\tothe\Downloads\[来自新世界]\來自新世界〈上〉.epub
 		Favorites [
 		]
 		IsPinned = false
 		IsMissing = false
 		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 693 0 1174 1520
+		ShowToc = false
+		SidebarDx = 601
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\tothe\Downloads\Telegram Desktop\杜尚访谈录3.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
 		UseDefaultState = false
 		DisplayMode = continuous
 		ScrollPos = -1 343
@@ -93,7 +133,7 @@ FileStates [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 1
+		OpenCount = 0
 		UseDefaultState = false
 		DisplayMode = continuous
 		ScrollPos = -1 31
@@ -113,7 +153,7 @@ FileStates [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 1
+		OpenCount = 0
 		UseDefaultState = false
 		DisplayMode = continuous
 		ScrollPos = -1 15
@@ -133,7 +173,7 @@ FileStates [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 2
+		OpenCount = 0
 		UseDefaultState = false
 		DisplayMode = continuous
 		ScrollPos = -1 51
@@ -153,7 +193,7 @@ FileStates [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 1
+		OpenCount = 0
 		UseDefaultState = false
 		DisplayMode = continuous
 		ScrollPos = -1 179
@@ -173,7 +213,7 @@ FileStates [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 1
+		OpenCount = 0
 		UseDefaultState = false
 		DisplayMode = continuous
 		ScrollPos = -1 334
@@ -193,7 +233,7 @@ FileStates [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 1
+		OpenCount = 0
 		UseDefaultState = false
 		DisplayMode = continuous
 		ScrollPos = -1 -1
@@ -213,7 +253,7 @@ FileStates [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 1
+		OpenCount = 0
 		UseDefaultState = false
 		DisplayMode = single page
 		ScrollPos = -1 310
@@ -233,7 +273,7 @@ FileStates [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 1
+		OpenCount = 0
 		UseDefaultState = false
 		DisplayMode = continuous
 		ScrollPos = -1 489
@@ -253,7 +293,7 @@ FileStates [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 1
+		OpenCount = 0
 		UseDefaultState = false
 		DisplayMode = continuous
 		ScrollPos = -1 -1
@@ -273,7 +313,7 @@ FileStates [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 1
+		OpenCount = 0
 		UseDefaultState = false
 		DisplayMode = continuous
 		ScrollPos = -1 233
@@ -293,7 +333,7 @@ FileStates [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 1
+		OpenCount = 0
 		UseDefaultState = false
 		DisplayMode = continuous
 		ScrollPos = -1 362
@@ -313,7 +353,7 @@ FileStates [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 1
+		OpenCount = 0
 		UseDefaultState = false
 		DisplayMode = continuous
 		ScrollPos = -1 -1
@@ -338,7 +378,7 @@ FileStates [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 9
+		OpenCount = 0
 		UseDefaultState = false
 		DisplayMode = continuous
 		ScrollPos = -1 -1
@@ -363,7 +403,7 @@ FileStates [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 8
+		OpenCount = 0
 		UseDefaultState = false
 		DisplayMode = continuous
 		ScrollPos = -1 -1
@@ -383,7 +423,7 @@ FileStates [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 1
+		OpenCount = 0
 		UseDefaultState = false
 		DisplayMode = continuous
 		ScrollPos = -1 388
@@ -403,7 +443,7 @@ FileStates [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 5
+		OpenCount = 0
 		UseDefaultState = false
 		DisplayMode = continuous
 		ScrollPos = -1 287
@@ -482,6 +522,6 @@ FileStates [
 SessionData [
 ]
 TimeOfLastUpdateCheck = 0 0
-OpenCountWeek = 497
+OpenCountWeek = 544
 
 # Settings after this line have not been recognized by the current version
